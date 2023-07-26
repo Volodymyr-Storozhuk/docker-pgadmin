@@ -1,4 +1,4 @@
-# run pgadmin in docker
+# Run pgadmin in docker
 
 [pgadmin in docker hub](https://hub.docker.com/r/dpage/pgadmin4)  
 [pgadmin](https://www.pgadmin.org/docs/pgadmin4/latest/container_deployment.html)
