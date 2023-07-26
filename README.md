@@ -3,7 +3,7 @@
 [pgadmin in docker hub](https://hub.docker.com/r/dpage/pgadmin4)  
 [pgadmin](https://www.pgadmin.org/docs/pgadmin4/latest/container_deployment.html)
 
-### For successful run pgadmin add to .env file yuor variables ###
+### For successful run pgadmin add to .env file your variables ###
 
 PGADMIN_DEFAULT_EMAIL=  
 PGADMIN_DEFAULT_PASSWORD=
