@@ -5,11 +5,13 @@
 
 ### For successful run pgadmin add to .env file your variables ###
 
+```python
 PGADMIN_DEFAULT_EMAIL=  
 PGADMIN_DEFAULT_PASSWORD=
+```
 
 Run command:
-```
+```bash
 docker compose --profile dev up -d
 ```
 
